@@ -14,5 +14,6 @@ Info:
 In the SteamLauncher.ini u can edit some options for steam.
 
 steam.inf creates a desktop icon with right click option to start/stop/login as different user.
+
 <<<<<<<< U HACE TO EDIT steam.inf BEFORE INSTALL IT >>>>>>>
 <img width="522" height="484" alt="Untitled-1" src="https://github.com/user-attachments/assets/82a54475-a65d-4e20-8936-34b41b3965fd" />
